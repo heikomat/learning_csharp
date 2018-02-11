@@ -27,10 +27,5 @@ namespace getter_setter
         // but when the need arises to have a custom getter/setter for that property
         // we can expand it with implementation
         public string someProperty3 { get; private set; }
-
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
     }
 }
