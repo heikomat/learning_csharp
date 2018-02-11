@@ -7,7 +7,7 @@ namespace getter_setter
         // some public property of that class. Anyone can access/modify it
         public string someProperty1 = "test";
 
-        // some custom implementation for a property
+        // some custom getter and setter implementations for a property
         private string _someProperty2;
         public string someProperty2
         {
