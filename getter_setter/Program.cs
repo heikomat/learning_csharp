@@ -4,7 +4,6 @@ namespace getter_setter
 {
     class Program
     {
-
         // some public property of that class. Anyone can access/modify it
         public string someProperty1 = "test";
 
